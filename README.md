@@ -37,6 +37,6 @@ I'm a Developer
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pelinhangisi)](https://github.com/bozdogansina)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bozdogansina)](https://github.com/bozdogansina)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinhangisi&layout=compact)](https://github.com/bozdogansina)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozdogansina&layout=compact)](https://github.com/bozdogansina)
