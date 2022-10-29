@@ -39,6 +39,6 @@ I'm tech-savvy. I'm interested in computers and robotics. I've worked with pytho
 ## 📈 GitHub Stats 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bozdogansina&theme=blue-green">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bozdogansina&theme=white-black)](https://github.com/bozdogansina)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bozdogansina&theme=black-white)](https://github.com/bozdogansina)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozdogansina&layout=compact)](https://github.com/bozdogansina)
